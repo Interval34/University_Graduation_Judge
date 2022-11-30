@@ -1,0 +1,2 @@
+# University_Graduation_Judge
+取った授業を入力すれば卒業判定してくれるみたい
